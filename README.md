@@ -1,26 +1,29 @@
-   Projeto: Rota da Fluência
-Descrição
-Projeto prático de uma landing page chamada "Rota da Fluência" , desenvolvida para demonstrar habilidades em HTML, CSS e design responsivo. A página promove um método inovador para aprender inglês por meio da fluência de ouvido.
+# Projeto: Rota da Fluência
 
-Estrutura
+## Descrição
 
-index.html : Estrutura da página.
-style.css : Estilos e responsividade.
-README.md : Documentação do projeto.
+Projeto prático de uma landing page chamada "Rota da Fluência", desenvolvida para demonstrar habilidades em HTML, CSS e design responsivo. A página promove um método inovador para aprender inglês por meio da fluência de ouvido.
 
-Como Executar
+## Estrutura
 
-Clone o repositório:
-  git clone:https://github.com/fau-33/web-design-teste
-Abra o arquivo index.html no navegador.
+- **index.html**: Estrutura da página.
+- **style.css**: Estilos e responsividade.
+- **README.md**: Documentação do projeto.
 
-Funcionalidades
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/fau-33/web-design-teste
+   ```
+
+## Funcionalidades
 
 Design responsivo para diferentes dispositivos.
 Animação de texto deslizante na seção Hero.
 Botão interativo com hover effects.
 
-Observações
+## Observações
 
 Reset básico de CSS para consistência.
 Cores e fontes escolhidas para transmitir profissionalismo.
